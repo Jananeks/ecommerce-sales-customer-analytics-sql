@@ -307,5 +307,5 @@ This is a portfolio project created to demonstrate SQL-based data analysis and b
 ### Customer Analysis
 ![Customer Analysis](screenshots/02_customer_analysis.png)
 
-### Product Analysis
-![Product Analysis](screenshots/03_product_analysis.png)
+### Performance Analysis
+![Performance Analysis](screenshots/03_performance_analysis.png)
