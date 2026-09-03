@@ -299,13 +299,4 @@ SQL | Data Analysis | Business Analytics | Data Cleaning | Data Aggregation | Re
 
 This is a portfolio project created to demonstrate SQL-based data analysis and business problem-solving skills for entry-level Data Analyst and Business Analyst roles.
 
-## 📸 Project Screenshots
 
-### Executive Sales Dashboard
-![Executive Sales Dashboard](screenshots/01_executive_sales_dashboard.png)
-
-### Customer Analysis
-![Customer Analysis](screenshots/02_customer_analysis.png)
-
-### Performance Analysis
-![Performance Analysis](screenshots/03_performance_analysis.png)
