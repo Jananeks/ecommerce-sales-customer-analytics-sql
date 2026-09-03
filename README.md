@@ -298,3 +298,14 @@ SQL | Data Analysis | Business Analytics | Data Cleaning | Data Aggregation | Re
 📌 Project Purpose
 
 This is a portfolio project created to demonstrate SQL-based data analysis and business problem-solving skills for entry-level Data Analyst and Business Analyst roles.
+
+## 📸 Project Screenshots
+
+### Executive Sales Dashboard
+![Executive Sales Dashboard](screenshots/Executive Sales Dashboard.png)
+
+### Customer Analysis
+![Customer Analysis](screenshots/Customer Analysis.png)
+
+### Product Analysis
+![Product Analysis](screenshots/Product Analysis.png)
