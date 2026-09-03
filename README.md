@@ -302,10 +302,10 @@ This is a portfolio project created to demonstrate SQL-based data analysis and b
 ## 📸 Project Screenshots
 
 ### Executive Sales Dashboard
-![Executive Sales Dashboard](screenshots/Executive Sales Dashboard.png)
+![Executive Sales Dashboard](screenshots/01_executive_sales_dashboard.png)
 
 ### Customer Analysis
-![Customer Analysis](screenshots/Customer Analysis.png)
+![Customer Analysis](screenshots/02_customer_analysis.png)
 
 ### Product Analysis
-![Product Analysis](screenshots/Product Analysis.png)
+![Product Analysis](screenshots/03_product_analysis.png)
